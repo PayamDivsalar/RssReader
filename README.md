@@ -30,6 +30,8 @@ This Java application allows you to read and manage RSS feeds with just the webs
 
 3. **View Latest Updates**:
    - Select the option to view updates.
+   - You will see the titles of all the URLs that you've added.
+   - choose the website that you want.
    - The program will display the 5 most recent updates from a selected RSS feed.
 
 ## Dependencies
