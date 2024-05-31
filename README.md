@@ -11,9 +11,10 @@ This Java application allows you to read and manage RSS feeds with just the webs
 ## Getting Started
 
 1. Clone this repository to your local machine.
-2. Compile the Java code using your preferred IDE or command line.
-3. Run the code.
-4. Follow the on-screen instructions to add, delete, and view RSS feeds.
+2. Go to the src directory.
+3. Compile the Java code using your preferred IDE or command line.
+4. Run the "Main" code.
+5. Follow the on-screen instructions to add, delete, and view RSS feeds.
 
 ## Usage
 
